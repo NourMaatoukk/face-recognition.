@@ -1,0 +1,3 @@
+name,action,timestamp,date,time,similarity,duration_minutes,session_id
+Youssef Magdy Mourice Ghobrial,JOIN,2025-12-10 13:28:36,2025-12-10,13:28:36,0.98,,1
+Youssef Magdy Mourice Ghobrial,LEFT,2025-12-10 13:28:59,2025-12-10,13:28:59,0.78,0.4,1
